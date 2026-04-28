@@ -1,0 +1,15 @@
+{
+  "MAX_VOCAB_SIZE": 20000,
+  "MAX_SEQ_LEN": 60,
+  "EMBED_DIM": 128,
+  "NUM_CLASSES": 6,
+  "EMOTION_MAP": {
+    "0": "Sadness",
+    "1": "Joy",
+    "2": "Love",
+    "3": "Anger",
+    "4": "Fear",
+    "5": "Surprise"
+  },
+  "best_model": "BiLSTM"
+}
