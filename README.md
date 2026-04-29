@@ -319,7 +319,7 @@ wordcloud
 
 ## 👨‍💻 Author
 
-**Your Name**
+**PAVAN AHIRE**
 - GitHub: [@your-username](https://github.com/pavan-ahire)
 - LinkedIn: [your-linkedin](https://www.linkedin.com/in/pavan-ahire-260940364/)
 
