@@ -6,7 +6,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange?style=for-the-badge&logo=tensorflow)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red?style=for-the-badge&logo=streamlit)
 ![NLTK](https://img.shields.io/badge/NLTK-3.8-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
+<!---![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)--->
 
 **A Deep Learning project that detects human emotions from text using Bidirectional LSTM and GRU neural networks.**
 
@@ -324,11 +324,11 @@ wordcloud
 - LinkedIn: [your-linkedin](https://www.linkedin.com/in/pavan-ahire-260940364/)
 
 ---
-
+<!---
 ## 📄 License
 
 This project is licensed under the **MIT License** — feel free to use, modify and distribute.
-
+--->
 ---
 
 <div align="center">
